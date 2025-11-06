@@ -35,13 +35,13 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.gifer.com/45RT.gif"  />
 </div>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=taongx.taongx&"  />
 </div>
 
