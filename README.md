@@ -1,4 +1,4 @@
-<h2 align="center">Sup ? Taonga here but you can call me tx</h2>
+<h2 align="center">Sup ? Taonga here</h2>
 
 ###
 
