@@ -1,4 +1,4 @@
-<h2 align="center">Sup ? Taonga here but you can call me tx</h2>
+<h2 align="center">Sup? Taonga here</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31oikstqe5g2ssxdj6abwckcayxa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oikstqe5g2ssxdj6abwckcayxa&count=5&unique=false" alt="Spotify recently played"  />
   </a>
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=taongx.taongx&"  />
 </div>
 
