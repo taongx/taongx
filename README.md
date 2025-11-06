@@ -1,8 +1,8 @@
-<h3 align="left">Just a guy honestly</h3>
+<h3 align="center">Just a guy honestly</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://bsky.app/profile/taongx.bsky.social" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
   </a>
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="35" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31oikstqe5g2ssxdj6abwckcayxa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oikstqe5g2ssxdj6abwckcayxa&count=5" alt="Spotify recently played"  />
   </a>
@@ -35,13 +35,13 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img height="200" src="https://i.gifer.com/45RT.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=taongx.taongx&"  />
 </div>
 
