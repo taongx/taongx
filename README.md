@@ -35,6 +35,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=taongx.taongx&"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taongx/taongx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taongx/taongx/output/pacman-contribution-graph.svg">
@@ -43,8 +49,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=taongx.taongx&"  />
+<div align="right">
+  <img height="200" src="https://i.gifer.com/45RT.gif"  />
 </div>
 
 ###
