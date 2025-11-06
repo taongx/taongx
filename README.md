@@ -1,4 +1,4 @@
-<h3 align="center">Just a guy honestly</h3>
+<h3 align="left">Just a guy honestly</h3>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=taongx.taongx&"  />
 </div>
 
